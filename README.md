@@ -1,6 +1,6 @@
 # big-event项目前端代码
 
-使用了Vue3框架和Elem-Plus组件库进行快速开发。
+使用了Vue3框架和Element-Plus组件库进行快速开发。
 
 需要的运行环境：
 
