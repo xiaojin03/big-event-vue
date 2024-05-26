@@ -6,6 +6,10 @@
 
 - NodeJS
 
+
+
+[文章管理项目的后端代码](https://github.com/xiaojin03/big-event)
+
 ## 运行项目的相关命令
 
 安装项目依赖
